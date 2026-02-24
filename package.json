@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s06866h",
-  "description": "https://scrimba.com/deploy-ai-apps-with-cloudflare-c037/~0a",
+  "name": "Cloudflare-OpenAi-API",
+  "description": "App run with openai api and cloudflare worker",
   "scripts": {
     "start": "vite",
     "dev": "vite",
