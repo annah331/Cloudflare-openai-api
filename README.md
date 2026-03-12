@@ -47,4 +47,4 @@ Currently deployed as a frontend demo due to API cost limitations.
 
 ## 👩🏽‍💻 Author
 Annah Molekoa  
-Junior Full-Stack Developer
+Junior Frontend Developer
